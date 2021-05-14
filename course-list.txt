@@ -1,0 +1,79 @@
+Su2021 0001 58 60 ENG 111 'Writing & Inquiry'
+Su2021 0002 57 60 ENG 111 'Writing & Inquiry'
+Fa2021 0001 48 50 ENG 111 'Writing & Inquiry'
+Fa2021 0002 39 40 ENG 111 'Writing & Inquiry'
+
+Su2021 0001 58 60 ENG 112 'Writing/Research in the Disciplines'
+Su2021 0002 57 60 ENG 112 'Writing/Research in the Disciplines'
+Fa2021 0001 48 50 ENG 112 'Writing/Research in the Disciplines'
+Fa2021 0002 39 40 ENG 112 'Writing/Research in the Disciplines'
+
+Su2021 0001 58 60 ENG 113 'Literature-Based Research'
+Su2021 0002 57 60 ENG 113 'Literature-Based Research'
+Fa2021 0001 48 50 ENG 113 'Literature-Based Research'
+Fa2021 0002 39 40 ENG 113 'Literature-Based Research'
+
+Su2021 0001 58 60 MAT 271 'Calculus I'
+Su2021 0002 57 60 MAT 271 'Calculus I'
+Fa2021 0001 48 50 MAT 271 'Calculus I'
+Fa2021 0002 39 40 MAT 271 'Calculus I'
+
+Su2021 0001 58 60 MAT 272 'Calculus II'
+Su2021 0002 57 60 MAT 272 'Calculus II'
+Fa2021 0001 48 50 MAT 272 'Calculus II'
+Fa2021 0002 39 40 MAT 272 'Calculus II'
+
+Su2021 0001 58 60 MAT 273 'Calculus III'
+Su2021 0002 57 60 MAT 273 'Calculus III'
+Fa2021 0001 48 50 MAT 273 'Calculus III'
+Fa2021 0002 39 40 MAT 273 'Calculus III'
+
+Su2021 0001 58 60 MAT 280 'Linear Algebra'
+Su2021 0002 57 60 MAT 280 'Linear Algebra'
+Fa2021 0001 48 50 MAT 280 'Linear Algebra'
+Fa2021 0002 39 40 MAT 280 'Linear Algebra'
+
+Su2021 0001 58 60 CHM 151 'General Chemistry I'
+Su2021 0002 57 60 CHM 151 'General Chemistry I'
+Fa2021 0001 48 50 CHM 151 'General Chemistry I'
+Fa2021 0002 39 40 CHM 151 'General Chemistry I'
+
+Su2021 0001 58 60 CHM 152 'General Chemistry II'
+Su2021 0002 57 60 CHM 152 'General Chemistry II'
+Fa2021 0001 48 50 CHM 152 'General Chemistry II'
+Fa2021 0002 39 40 CHM 152 'General Chemistry II'
+
+Su2021 0001 58 60 PHY 251 'General Physics I'
+Su2021 0002 57 60 PHY 251 'General Physics I'
+Fa2021 0001 48 50 PHY 251 'General Physics I'
+Fa2021 0002 39 40 PHY 251 'General Physics I'
+
+Su2021 0001 58 60 PHY 252 'General Physics II'
+Su2021 0002 57 60 PHY 252 'General Physics II'
+Fa2021 0001 48 50 PHY 252 'General Physics II'
+Fa2021 0002 39 40 PHY 252 'General Physics II'
+
+Su2021 0001 58 60 HUM 115 'Critical Thinking'
+Su2021 0002 57 60 HUM 115 'Critical Thinking'
+Fa2021 0001 48 50 HUM 115 'Critical Thinking'
+Fa2021 0002 39 40 HUM 115 'Critical Thinking'
+
+Su2021 0001 58 60 HUM 220 'Human Values and Meaning'
+Su2021 0002 57 60 HUM 220 'Human Values and Meaning'
+Fa2021 0001 48 50 HUM 220 'Human Values and Meaning'
+Fa2021 0002 39 40 HUM 220 'Human Values and Meaning'
+
+Su2021 0001 58 60 BUS 110 'Introduction to Business'
+Su2021 0002 57 60 BUS 110 'Introduction to Business'
+Fa2021 0001 48 50 BUS 110 'Introduction to Business'
+Fa2021 0002 39 40 BUS 110 'Introduction to Business'
+
+Su2021 0001 58 60 BIO 111 'General Biology I'
+Su2021 0002 57 60 BIO 111 'General Biology I'
+Fa2021 0001 48 50 BIO 111 'General Biology I'
+Fa2021 0002 39 40 BIO 111 'General Biology I'
+
+Su2021 0001 58 60 BIO 112 'General Biology II'
+Su2021 0002 57 60 BIO 112 'General Biology II'
+Fa2021 0001 50 50 BIO 112 'General Biology II'
+Fa2021 0002 39 40 BIO 112 'General Biology II'
